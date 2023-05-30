@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b2487ac5.css",
-    "main.js": "/static/js/main.026f578c.js",
+    "main.js": "/static/js/main.cb4f7ed4.js",
     "static/js/787.7a87eccf.chunk.js": "/static/js/787.7a87eccf.chunk.js",
     "static/media/vip.gif": "/static/media/vip.6f8f03c73ed806d4f3bf.gif",
     "static/media/pt.jpg": "/static/media/pt.883efa541dee21052a2a.jpg",
@@ -22,20 +22,22 @@
     "static/media/concepts.png": "/static/media/concepts.9ab2795869c75db9d566.png",
     "static/media/trend.png": "/static/media/trend.af2385a8b20d710269fb.png",
     "static/media/instagram.png": "/static/media/instagram.1c258b7a5161f2181b30.png",
+    "static/media/team.png": "/static/media/team.95f20609416860a1d5bd.png",
     "static/media/safe.png": "/static/media/safe.2f2703dbdbf4dca85d1d.png",
     "static/media/comm.png": "/static/media/comm.b650644c084d34302089.png",
     "static/media/notf.png": "/static/media/notf.5ed6bb8bb5ffe3f80fb4.png",
     "static/media/discord.png": "/static/media/discord.65a9bc135d70f08bb6c1.png",
     "static/media/login.png": "/static/media/login.88fb8fd7e5be92b64b40.png",
+    "static/media/msg.png": "/static/media/msg.0f46e2728eb984e21ce8.png",
     "static/media/support.png": "/static/media/support.68f04ba1ff357ef6e8ef.png",
     "static/media/privacy.svg": "/static/media/privacy.90151bfa7070c8015f842db4047d289c.svg",
     "index.html": "/index.html",
     "main.b2487ac5.css.map": "/static/css/main.b2487ac5.css.map",
-    "main.026f578c.js.map": "/static/js/main.026f578c.js.map",
+    "main.cb4f7ed4.js.map": "/static/js/main.cb4f7ed4.js.map",
     "787.7a87eccf.chunk.js.map": "/static/js/787.7a87eccf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b2487ac5.css",
-    "static/js/main.026f578c.js"
+    "static/js/main.cb4f7ed4.js"
   ]
 }
