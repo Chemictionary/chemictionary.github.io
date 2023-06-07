@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e9182faf.css",
-    "main.js": "/static/js/main.674e5ae0.js",
+    "main.js": "/static/js/main.8944a295.js",
     "static/js/787.7a87eccf.chunk.js": "/static/js/787.7a87eccf.chunk.js",
     "static/media/raman.png": "/static/media/raman.efe77762043c71499bab.png",
     "static/media/vip.gif": "/static/media/vip.6f8f03c73ed806d4f3bf.gif",
@@ -10,6 +10,7 @@
     "static/media/kalam.png": "/static/media/kalam.ecd7718eb81c2b0a3e2c.png",
     "static/media/aim.jpg": "/static/media/aim.76658c08dd7aced69da8.jpg",
     "static/media/bose.png": "/static/media/bose.f190f867ac286a2c5415.png",
+    "static/media/einstein.png": "/static/media/einstein.f190f867ac286a2c5415.png",
     "static/media/homi.png": "/static/media/homi.2024038de6dba4ee2271.png",
     "static/media/sol.jpg": "/static/media/sol.98b27c85c9d5cea21da7.jpg",
     "static/media/salim.png": "/static/media/salim.f7f63b9f18e633b59d31.png",
@@ -18,6 +19,7 @@
     "static/media/error.png": "/static/media/error.d37c2798b70ca2c0f45f.png",
     "static/media/insp.png": "/static/media/insp.9e90b25373bf6a6bcaac.png",
     "static/media/wait.png": "/static/media/wait.f94352c2a4e12ddc42d7.png",
+    "static/media/galilei.png": "/static/media/galilei.03a207e1e0a66ae14571.png",
     "static/media/formula.png": "/static/media/formula.6dc68e7aab67321c0638.png",
     "static/media/science.png": "/static/media/science.b3e8a953516d42422f6b.png",
     "static/media/empty.png": "/static/media/empty.f40e38b4bfa675bfd14a.png",
@@ -47,11 +49,11 @@
     "static/media/privacy.svg": "/static/media/privacy.90151bfa7070c8015f842db4047d289c.svg",
     "index.html": "/index.html",
     "main.e9182faf.css.map": "/static/css/main.e9182faf.css.map",
-    "main.674e5ae0.js.map": "/static/js/main.674e5ae0.js.map",
+    "main.8944a295.js.map": "/static/js/main.8944a295.js.map",
     "787.7a87eccf.chunk.js.map": "/static/js/787.7a87eccf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e9182faf.css",
-    "static/js/main.674e5ae0.js"
+    "static/js/main.8944a295.js"
   ]
 }
