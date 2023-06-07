@@ -1,12 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.5ee1390a.css",
-    "main.js": "/static/js/main.c0c49828.js",
+    "main.css": "/static/css/main.e9182faf.css",
+    "main.js": "/static/js/main.9019500a.js",
     "static/js/787.7a87eccf.chunk.js": "/static/js/787.7a87eccf.chunk.js",
+    "static/media/raman.png": "/static/media/raman.efe77762043c71499bab.png",
     "static/media/vip.gif": "/static/media/vip.6f8f03c73ed806d4f3bf.gif",
     "static/media/pt.jpg": "/static/media/pt.883efa541dee21052a2a.jpg",
     "static/media/prob.jpg": "/static/media/prob.e2b00af873be0f5074d1.jpg",
+    "static/media/kalam.png": "/static/media/kalam.ecd7718eb81c2b0a3e2c.png",
     "static/media/aim.jpg": "/static/media/aim.76658c08dd7aced69da8.jpg",
+    "static/media/bose.png": "/static/media/bose.f190f867ac286a2c5415.png",
     "static/media/sol.jpg": "/static/media/sol.98b27c85c9d5cea21da7.jpg",
     "static/media/error.png": "/static/media/error.d37c2798b70ca2c0f45f.png",
     "static/media/insp.png": "/static/media/insp.9e90b25373bf6a6bcaac.png",
@@ -39,12 +42,12 @@
     "static/media/support.png": "/static/media/support.68f04ba1ff357ef6e8ef.png",
     "static/media/privacy.svg": "/static/media/privacy.90151bfa7070c8015f842db4047d289c.svg",
     "index.html": "/index.html",
-    "main.5ee1390a.css.map": "/static/css/main.5ee1390a.css.map",
-    "main.c0c49828.js.map": "/static/js/main.c0c49828.js.map",
+    "main.e9182faf.css.map": "/static/css/main.e9182faf.css.map",
+    "main.9019500a.js.map": "/static/js/main.9019500a.js.map",
     "787.7a87eccf.chunk.js.map": "/static/js/787.7a87eccf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ee1390a.css",
-    "static/js/main.c0c49828.js"
+    "static/css/main.e9182faf.css",
+    "static/js/main.9019500a.js"
   ]
 }
