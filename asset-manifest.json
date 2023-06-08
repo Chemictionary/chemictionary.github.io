@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2d91dfc2.css",
-    "main.js": "/static/js/main.8355151f.js",
+    "main.css": "/static/css/main.6a43d74d.css",
+    "main.js": "/static/js/main.72bfb400.js",
     "static/js/787.7a87eccf.chunk.js": "/static/js/787.7a87eccf.chunk.js",
     "static/media/einstein.png": "/static/media/einstein.812bf6482ce55dc9ef89.png",
     "static/media/raman.png": "/static/media/raman.efe77762043c71499bab.png",
@@ -12,6 +12,7 @@
     "static/media/kalam.png": "/static/media/kalam.ecd7718eb81c2b0a3e2c.png",
     "static/media/aim.jpg": "/static/media/aim.76658c08dd7aced69da8.jpg",
     "static/media/bose.png": "/static/media/bose.f190f867ac286a2c5415.png",
+    "static/media/ramanujan.png": "/static/media/ramanujan.ee2d2c15b57c6467cf2c.png",
     "static/media/homi.png": "/static/media/homi.2024038de6dba4ee2271.png",
     "static/media/sol.jpg": "/static/media/sol.98b27c85c9d5cea21da7.jpg",
     "static/media/salim.png": "/static/media/salim.f7f63b9f18e633b59d31.png",
@@ -50,12 +51,12 @@
     "static/media/support.png": "/static/media/support.68f04ba1ff357ef6e8ef.png",
     "static/media/privacy.svg": "/static/media/privacy.90151bfa7070c8015f842db4047d289c.svg",
     "index.html": "/index.html",
-    "main.2d91dfc2.css.map": "/static/css/main.2d91dfc2.css.map",
-    "main.8355151f.js.map": "/static/js/main.8355151f.js.map",
+    "main.6a43d74d.css.map": "/static/css/main.6a43d74d.css.map",
+    "main.72bfb400.js.map": "/static/js/main.72bfb400.js.map",
     "787.7a87eccf.chunk.js.map": "/static/js/787.7a87eccf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d91dfc2.css",
-    "static/js/main.8355151f.js"
+    "static/css/main.6a43d74d.css",
+    "static/js/main.72bfb400.js"
   ]
 }
