@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ae93eb88.css",
-    "main.js": "/static/js/main.d25f3474.js",
+    "main.js": "/static/js/main.3dcf2217.js",
     "static/js/787.7a87eccf.chunk.js": "/static/js/787.7a87eccf.chunk.js",
     "static/media/einstein.png": "/static/media/einstein.812bf6482ce55dc9ef89.png",
     "static/media/avogardo.png": "/static/media/avogardo.f82886335c347cb81120.png",
@@ -10,6 +10,7 @@
     "static/media/faraday.png": "/static/media/faraday.5250e1bb66a33fd2b8f3.png",
     "static/media/pt.jpg": "/static/media/pt.883efa541dee21052a2a.jpg",
     "static/media/prob.jpg": "/static/media/prob.e2b00af873be0f5074d1.jpg",
+    "static/media/science.png": "/static/media/science.c1eee4edac1ec6ac1018.png",
     "static/media/kalam.png": "/static/media/kalam.ecd7718eb81c2b0a3e2c.png",
     "static/media/aim.jpg": "/static/media/aim.76658c08dd7aced69da8.jpg",
     "static/media/bose.png": "/static/media/bose.f190f867ac286a2c5415.png",
@@ -27,7 +28,6 @@
     "static/media/dalton.png": "/static/media/dalton.dea4ddfd56a0bfdbce7a.png",
     "static/media/galilei.png": "/static/media/galilei.03a207e1e0a66ae14571.png",
     "static/media/formula.png": "/static/media/formula.6dc68e7aab67321c0638.png",
-    "static/media/science.png": "/static/media/science.b3e8a953516d42422f6b.png",
     "static/media/empty.png": "/static/media/empty.f40e38b4bfa675bfd14a.png",
     "static/media/sk.png": "/static/media/sk.a38ab76971bd17e43160.png",
     "static/media/prac.png": "/static/media/prac.bd05d40a4528b011c1e0.png",
@@ -58,11 +58,11 @@
     "static/media/privacy.svg": "/static/media/privacy.90151bfa7070c8015f842db4047d289c.svg",
     "index.html": "/index.html",
     "main.ae93eb88.css.map": "/static/css/main.ae93eb88.css.map",
-    "main.d25f3474.js.map": "/static/js/main.d25f3474.js.map",
+    "main.3dcf2217.js.map": "/static/js/main.3dcf2217.js.map",
     "787.7a87eccf.chunk.js.map": "/static/js/787.7a87eccf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ae93eb88.css",
-    "static/js/main.d25f3474.js"
+    "static/js/main.3dcf2217.js"
   ]
 }
