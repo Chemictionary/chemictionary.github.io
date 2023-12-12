@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.02d41bed.css",
+    "main.css": "/static/css/main.831146f4.css",
     "main.js": "/static/js/main.0597d861.js",
     "static/js/787.8436bdfd.chunk.js": "/static/js/787.8436bdfd.chunk.js",
     "static/media/bacc.jpg": "/static/media/bacc.ec9838de6163d52a8ddf.jpg",
     "static/media/back.jpg": "/static/media/back.f7ff2f99d437c0a7c734.jpg",
     "static/media/bacn.png": "/static/media/bacn.f1c3d01855ffe77f27ee.png",
+    "static/media/conceptl.gif": "/static/media/conceptl.b23b8b37ceafdde0eb94.gif",
     "static/media/inspirations.png": "/static/media/inspirations.9e90b25373bf6a6bcaac.png",
     "static/media/formula.png": "/static/media/formula.6dc68e7aab67321c0638.png",
-    "static/media/ghost.png": "/static/media/ghost.beaf54a2f1cb62821df5.png",
     "static/media/practicals.png": "/static/media/practicals.bd05d40a4528b011c1e0.png",
     "static/media/ncert.png": "/static/media/ncert.6dad4139d8bf29c0debd.png",
     "static/media/compounds.png": "/static/media/compounds.d91cfff7f059eca31e57.png",
@@ -25,12 +25,12 @@
     "static/media/subscribe.svg": "/static/media/subscribe.89e956d0cc77c4617f18.svg",
     "static/media/problem.svg": "/static/media/problem.633a25d78f0e048376ee.svg",
     "index.html": "/index.html",
-    "main.02d41bed.css.map": "/static/css/main.02d41bed.css.map",
+    "main.831146f4.css.map": "/static/css/main.831146f4.css.map",
     "main.0597d861.js.map": "/static/js/main.0597d861.js.map",
     "787.8436bdfd.chunk.js.map": "/static/js/787.8436bdfd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.02d41bed.css",
+    "static/css/main.831146f4.css",
     "static/js/main.0597d861.js"
   ]
 }
